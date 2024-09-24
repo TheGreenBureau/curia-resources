@@ -131,7 +131,7 @@
   "Kirjoita...": "Kirjoita...",
   "Juttuluettelot": "Juttuluettelot",
   "Avaa": "Avaa",
-  "Näytä": "Näytä",
-  "Syyttäjällä": "Syyttäjällä",
-  "Julkisessa": "Julkisessa"
+  "private": "Ei-julkinen",
+  "public": "Julkinen",
+  "prosecutor": "Syyttäjä"
 }

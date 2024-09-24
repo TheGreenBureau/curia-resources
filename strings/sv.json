@@ -168,7 +168,7 @@
   "Poista valinnat": "Poista valinnat",
   "Kirjoita...": "Kirjoita...",
   "Valitse päivämäärällä": "Valitse päivämäärällä",
-  "Näytä": "Näytä",
-  "Syyttäjällä": "Syyttäjällä",
-  "Julkisessa": "Julkisessa"
+  "private": "Ei-julkinen",
+  "public": "Julkinen",
+  "prosecutor": "Syyttäjä"
 }
