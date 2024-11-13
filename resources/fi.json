@@ -1757,6 +1757,48 @@
       "departments": []
     },
     {
+      "id": "c3b3de69-914f-4760-a3f1-773950ec1e91",
+      "name": "Turun hovioikeus",
+      "abbreviation": "THO",
+      "offices": [
+        {
+          "id": "272acffd-f8bc-428a-8893-52a2b6dc507e",
+          "name": "Turku",
+          "rooms": [
+            {
+              "id": "502eea1e-3400-49d5-8519-b6a3cb732803",
+              "name": "Sali 102"
+            },
+            {
+              "id": "a6da4480-6ac5-4541-b637-4308eb2660e7",
+              "name": "Sali 103"
+            },
+            {
+              "id": "8ccd24c8-f025-4edb-8fbe-8bb9156eb452",
+              "name": "Sali 104"
+            },
+            {
+              "id": "c4088138-f59b-4af5-9fd8-d40443200ce9",
+              "name": "Sali 121"
+            },
+            {
+              "id": "157520af-3f0b-4185-9f5b-caa7bf1bd302",
+              "name": "Sali 123"
+            },
+            {
+              "id": "7efd3ac1-575c-4f6b-85fe-ab1a0d4bb86b",
+              "name": "Sali 137"
+            },
+            {
+              "id": "135bdaff-53bd-4751-9e4a-fb50d7707d28",
+              "name": "Sali 138"
+            }
+          ]
+        }
+      ],
+      "departments": []
+    },
+    {
       "id": "675b7b12-0b1c-4013-9db3-b8f7659c245f",
       "name": "Varsinais-Suomen käräjäoikeus",
       "abbreviation": "VSKO",
