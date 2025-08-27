@@ -1901,8 +1901,11 @@
     "plaintiff": "Kärande",
     "defendant": "Svarande",
     "injured": "Målsägande",
+    "party": "Part",
     "witness": "Vittne",
-    "expert": "Sakkunnig"
+    "expert": "Sakkunnig",
+    "appealant": "Ändringssökare",
+    "adversary": "Motpart"
   },
   "officerPositions": {
     "presiding": "Ordförande",
@@ -1957,6 +1960,7 @@
   },
   "prosecutorTitles": {
     "prosecutor": "Distriktsåklagare",
+    "assistantProsecutor": "Biträdande åklagare",
     "specialProsecutor": "Specialiståklagare",
     "provincialProsecutor": "Landskapsåklagare",
     "stateProsecutor": "Statsåklagare",
