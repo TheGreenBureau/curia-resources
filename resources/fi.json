@@ -1901,8 +1901,11 @@
     "plaintiff": "Kantaja",
     "defendant": "Vastaaja",
     "injured": "Asianomistaja",
+    "party": "Asianosainen",
     "witness": "Todistaja",
-    "expert": "Asiantuntija"
+    "expert": "Asiantuntija",
+    "appealant": "Valittaja",
+    "adversary": "Vastapuoli"
   },
   "officerPositions": {
     "presiding": "Puheenjohtaja",
@@ -1957,6 +1960,7 @@
   },
   "prosecutorTitles": {
     "prosecutor": "Aluesyyttäjä",
+    "assistantProsecutor": "Apulaissyyttäjä",
     "provincialProsecutor": "Maakunnansyyttäjä",
     "specialProsecutor": "Erikoissyyttäjä",
     "stateProsecutor": "Valtionsyyttäjä",
