@@ -1898,13 +1898,13 @@
     }
   ],
   "civilianPositions": {
-    "plaintiff": "Kantaja",
-    "defendant": "Vastaaja",
     "injured": "Asianomistaja",
     "party": "Asianosainen",
-    "witness": "Todistaja",
     "expert": "Asiantuntija",
+    "plaintiff": "Kantaja",
+    "witness": "Todistaja",
     "appealant": "Valittaja",
+    "defendant": "Vastaaja",
     "adversary": "Vastapuoli"
   },
   "officerPositions": {
@@ -1940,19 +1940,19 @@
     "fetch": "Nouto"
   },
   "courtTitles": {
-    "judge": "Käräjätuomari",
-    "notary": "Käräjänotaari",
-    "president": "Laamanni",
-    "secretary": "Käräjäsihteeri",
-    "appealsJudge": "Hovioikeudenneuvos",
     "appealsReferendary": "Hovioikeuden esittelijä",
     "appealsPresident": "Hovioikeuden presidentti",
     "appealsSecretary": "Hovioikeuden sihteeri",
-    "appealsNotary": "Notaari",
-    "supremeJudge": "Oikeusneuvos",
+    "appealsJudge": "Hovioikeudenneuvos",
     "supremeReferendary": "Korkeimman oikeuden esittelijä",
     "supremePresident": "Korkeimman oikeuden presidentti",
-    "supremeSecretary": "Korkeimman oikeuden sihteeri"
+    "supremeSecretary": "Korkeimman oikeuden sihteeri",
+     "notary": "Käräjänotaari",
+    "secretary": "Käräjäsihteeri",
+    "judge": "Käräjätuomari",
+    "president": "Laamanni",
+    "appealsNotary": "Notaari",
+    "supremeJudge": "Oikeusneuvos"    
   },
   "laymanTitles": {
     "juror": "Lautamies",
@@ -1961,10 +1961,10 @@
   "prosecutorTitles": {
     "prosecutor": "Aluesyyttäjä",
     "assistantProsecutor": "Apulaissyyttäjä",
-    "provincialProsecutor": "Maakunnansyyttäjä",
-    "specialProsecutor": "Erikoissyyttäjä",
-    "stateProsecutor": "Valtionsyyttäjä",
     "deputyProsecutorGeneral": "Apulaisvaltakunnansyyttäjä",
-    "prosecutorGeneral": "Valtakunnansyyttäjä"
+    "specialProsecutor": "Erikoissyyttäjä",
+    "provincialProsecutor": "Maakunnansyyttäjä", 
+    "prosecutorGeneral": "Valtakunnansyyttäjä",   
+    "stateProsecutor": "Valtionsyyttäjä"
   }
 }
