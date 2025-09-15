@@ -1899,32 +1899,32 @@
   ],
   "civilianPositions": {
     "plaintiff": "Kärande",
-    "defendant": "Svarande",
+    "adversary": "Motpart",
     "injured": "Målsägande",
     "party": "Part",
-    "witness": "Vittne",
     "expert": "Sakkunnig",
-    "appealant": "Ändringssökare",
-    "adversary": "Motpart"
+    "defendant": "Svarande",
+    "witness": "Vittne",
+    "appealant": "Ändringssökare"
   },
   "officerPositions": {
-    "presiding": "Ordförande",
-    "secretary": "Sekreterare",
     "member": "Medlem",
     "layman": "Nämndeman",
+    "presiding": "Ordförande",
+    "secretary": "Sekreterare",
     "prosecutor": "Åklagare"
   },
   "positionAbbreviations": {
-    "presiding_abr": "OF",
-    "member_abr": "MDL",
-    "layman_abr": "NM",
-    "secretary_abr": "SEKR",
-    "prosecutor_abr": "ÅK",
-    "defendant_abr": "SVA",
-    "injured_abr": "MÄ",
     "plaintiff_abr": "KÄR",
+    "member_abr": "MDL",
+    "injured_abr": "MÄ",
+    "layman_abr": "NM",
+    "presiding_abr": "OF",
+    "expert_abr": "SAKK",
+    "secretary_abr": "SEKR",
+    "defendant_abr": "SVA",
     "witness_abr": "VTN",
-    "expert_abr": "SAKK"
+    "prosecutor_abr": "ÅK"
   },
   "summons": {
     "personal": "Pers",
@@ -1940,31 +1940,31 @@
     "fetch": "Hämtning"
   },
   "courtTitles": {
-    "judge": "Tingsdomare",
-    "notary": "Tingsnotarie",
-    "president": "Lagman",
-    "secretary": "Tingssekreterare",
-    "appealsJudge": "Hovrättsråd",
     "appealsReferendary": "Föredragande vid hovrätten",
-    "appealsPresident": "Hovrättens president",
-    "appealsSecretary": "Hovrättssekreterare",
-    "appealsNotary": "Notarie",
-    "supremeJudge": "Justitieråd",
     "supremeReferendary": "Föredragande vid högsta domstolen",
-    "supremePresident": "Högsta domstolens president",
-    "supremeSecretary": "Sekreterare vid högsta domstolen"
+    "appealsPresident": "Hovrättens president",
+    "appealsJudge": "Hovrättsråd",
+    "appealsSecretary": "Hovrättssekreterare",
+    "supremePresident": "Högsta domstolens president", 
+    "supremeJudge": "Justitieråd",
+    "president": "Lagman",
+    "appealsNotary": "Notarie",
+    "supremeSecretary": "Sekreterare vid högsta domstolen",
+     "judge": "Tingsdomare",
+    "notary": "Tingsnotarie",
+    "secretary": "Tingssekreterare"
   },
   "laymanTitles": {
     "juror": "Nämndeman",
     "jurorSenior": "Häradsdomare"
   },
   "prosecutorTitles": {
-    "prosecutor": "Distriktsåklagare",
-    "assistantProsecutor": "Biträdande åklagare",
-    "specialProsecutor": "Specialiståklagare",
-    "provincialProsecutor": "Landskapsåklagare",
-    "stateProsecutor": "Statsåklagare",
     "deputyProsecutorGeneral": "Biträdande riksåklagare",
+    "assistantProsecutor": "Biträdande åklagare",
+    "prosecutor": "Distriktsåklagare",
+    "provincialProsecutor": "Landskapsåklagare",
+    "specialProsecutor": "Specialiståklagare",
     "prosecutorGeneral": "Riksåklagare"
+    "stateProsecutor": "Statsåklagare"
   }
 }
